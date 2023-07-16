@@ -1,5 +1,4 @@
-cd cloud
-jp2a mod4.jpg
+
 
 echo "              [✓chuc máy anh khởi nghiệp thành công ✓]";
 
@@ -19,6 +18,9 @@ echo  "              [✓admin:diengiau/at/suachuanguyenchat/✓]";
 sleep 3
 
 echo "               [✓zalo:nhóm:https://zalo.me/g/vtoxxt314 ✓]";
+
+cd cloud
+jp2a mod4.jpg
 
 echo "loading mining";
 echo ":███████████10% ";
